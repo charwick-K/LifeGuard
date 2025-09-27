@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HealthSuite</string>
+    <string name="fitbit_client_id">PUT_FITBIT_CLIENT_ID_HERE</string>
+    <string name="fitbit_redirect_uri">myapp://fitbit</string>
+</resources>
